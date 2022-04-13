@@ -20,8 +20,8 @@ class Card extends HTMLElement {
                             />
                             <div class="carousel-item__details">
                             <div>
-                                <img src="./icons/play-icon.png" alt="Play" />
-                                <img src="./icons/plus-icon.png" alt="Plus" />
+                                <img src="https://connectingclues.es/wp-content/uploads/2019/09/white-play-icon-png-7.png" alt="Play" />
+                                <img src="https://www.pikpng.com/pngl/m/65-653860_plus-symbol-png-photo-purple-plus-sign-png.png" alt="Plus" />
                             </div>
                             <p class="carousel-item__details--title">Titulo descriptivo</p>
                             <p class="carousel-item__details-subtitle">2019 16+ 114 minutos</p>
@@ -30,12 +30,12 @@ class Card extends HTMLElement {
                         <div class="carousel-item">
                             <img
                             class="carousel-item__img"
-                            src="./img/pexels-marcelo-chagas-1876279.jpg"
+                            src="https://images.pexels.com/photos/7574147/pexels-photo-7574147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                             />
                             <div class="carousel-item__details">
                             <div>
-                                <img src="./icons/play-icon.png" alt="Play" />
-                                <img src="./icons/plus-icon.png" alt="Plus" />
+                                <img src="https://connectingclues.es/wp-content/uploads/2019/09/white-play-icon-png-7.png" alt="Play" />
+                                <img src="https://www.pikpng.com/pngl/m/65-653860_plus-symbol-png-photo-purple-plus-sign-png.png" alt="Plus" />
                             </div>
                             <p class="carousel-item__details--title">Titulo descriptivo</p>
                             <p class="carousel-item__details-subtitle">2019 16+ 114 minutos</p>
@@ -44,12 +44,12 @@ class Card extends HTMLElement {
                         <div class="carousel-item">
                             <img
                             class="carousel-item__img"
-                            src=".//img/pexels-zeke-nesher-838702.jpg"
+                            src="https://images.pexels.com/photos/10364392/pexels-photo-10364392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                             />
                             <div class="carousel-item__details">
                             <div>
-                                <img src="./icons/play-icon.png" alt="Play" />
-                                <img src="./icons/plus-icon.png" alt="Plus" />
+                                <img src="https://connectingclues.es/wp-content/uploads/2019/09/white-play-icon-png-7.png" alt="Play" />
+                                <img src="https://www.pikpng.com/pngl/m/65-653860_plus-symbol-png-photo-purple-plus-sign-png.png" alt="Plus" />
                             </div>
                             <p class="carousel-item__details--title">Titulo descriptivo</p>
                             <p class="carousel-item__details-subtitle">2019 16+ 114 minutos</p>
@@ -58,12 +58,12 @@ class Card extends HTMLElement {
                         <div class="carousel-item">
                             <img
                             class="carousel-item__img"
-                            src="./img/pexels-eric-esma-894156.jpg"
+                            src="https://images.pexels.com/photos/11653294/pexels-photo-11653294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                             />
                             <div class="carousel-item__details">
                             <div>
-                                <img src="./icons/play-icon.png" alt="Play" />
-                                <img src="./icons/plus-icon.png" alt="Plus" />
+                                <img src="https://connectingclues.es/wp-content/uploads/2019/09/white-play-icon-png-7.png" alt="Play" />
+                                <img src="https://www.pikpng.com/pngl/m/65-653860_plus-symbol-png-photo-purple-plus-sign-png.png" alt="Plus" />
                             </div>
                             <p class="carousel-item__details--title">Titulo descriptivo</p>
                             <p class="carousel-item__details-subtitle">2019 16+ 114 minutos</p>
@@ -73,12 +73,12 @@ class Card extends HTMLElement {
                         <div class="carousel-item">
                             <img
                             class="carousel-item__img"
-                            src="./img/pexels-karolina-grabowska-4498195.jpg"
+                            src="https://images.pexels.com/photos/5465310/pexels-photo-5465310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                             />
                             <div class="carousel-item__details">
                             <div>
-                                <img src="./icons/play-icon.png" alt="Play" />
-                                <img src="./icons/plus-icon.png" alt="Plus" />
+                                <img src="https://connectingclues.es/wp-content/uploads/2019/09/white-play-icon-png-7.png" alt="Play" />
+                                <img src="https://www.pikpng.com/pngl/m/65-653860_plus-symbol-png-photo-purple-plus-sign-png.png" alt="Plus" />
                             </div>
                             <p class="carousel-item__details--title">Titulo descriptivo</p>
                             <p class="carousel-item__details-subtitle">2019 16+ 114 minutos</p>
