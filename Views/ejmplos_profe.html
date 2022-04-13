@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <style>
+            .stl{
+                color: yellow;
+                background-color:red;  
+            }
+        </style>
+    </head>
+    <body>
+        <h1> Mi Pagina</h1>
+        <script>
+            let x = document.createElement('div');
+            let i = document.createElement('input');
+            document.body.appendChild(x);
+            x.style.width = '25%';
+            x.style.height = '25%';
+            x.style.backgroundColor = 'rgba(10, 120, 130, 0.6)';
+            x.style.position = 'relative';
+            x.style.left = '10%';
+            x.style.top = '10%';
+            i.style.position = 'relative';
+            i.style.left = '10px';
+            i.style.top = '10px';
+            x.innerText = 'HOLA';
+            x.className = 'stl';
+            x.appendChild(i);
+            x.lastElementChild.value = 'kljdfhkjsehgfkjshgkjshg'
+            
+            /*
+            •	firstElementChild
+            •	lastElementChild
+            •	nextElementChild/nextElementSibling
+            •	previousElementChild/previousElementSibling
+            •	childNodes
+            •	childElementCount            
+            */
+                       
+        </script>
+    </body>
+</html>
